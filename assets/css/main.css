@@ -3480,7 +3480,7 @@
 		}
 
 			#banner .more:after {
-				/*background-image: url("images/dog.jpg");*/
+				background-image: url("images/dog.jpg");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
